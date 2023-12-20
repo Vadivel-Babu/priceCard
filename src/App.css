@@ -1,0 +1,10 @@
+
+.app{
+  background-color: rgb(74, 74, 255);
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
