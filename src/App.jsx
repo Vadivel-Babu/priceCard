@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import Card from "./component/Card";
 function App() {
   const data = [{
